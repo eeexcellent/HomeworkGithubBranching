@@ -1,1 +1,1 @@
-This is my first C# homework 😃
+This is my first homework at Beetroot 😎
